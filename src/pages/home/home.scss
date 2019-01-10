@@ -1,0 +1,31 @@
+page-home {
+    ion-icon {
+        font-size: 30px;
+        color: white;
+    }
+
+    .item-input {
+        border-bottom-color: transparent !important;
+        .text-input{
+            margin-left: 0px !important;
+        }
+    }
+    #finished-count{
+        color: grey;
+        font-size:11px;
+        display: inline;
+        float:right;
+        margin: 5px;
+    }
+    .col{
+        margin:auto;
+    }        
+    .changeView{
+        font-size: 12px;
+    }
+    .completed{
+        color: grey;
+    }
+
+
+}
